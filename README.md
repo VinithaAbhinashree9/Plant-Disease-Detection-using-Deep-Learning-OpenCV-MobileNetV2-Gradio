@@ -1,0 +1,1 @@
+# Plant-Disease-Detection-using-Deep-Learning-OpenCV-MobileNetV2-Gradio
