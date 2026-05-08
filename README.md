@@ -91,7 +91,7 @@ PlantDiseaseDetection/
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/PlantDiseaseDetection.git
+git clone https://github.com/VinithaAbhinashree9/Plant-Disease-Detection-using-Deep-Learning-OpenCV-MobileNetV2-Gradio/tree/main
 ```
 
 Move into project folder:
