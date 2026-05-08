@@ -17,4 +17,4 @@ Built with:
 Add your Hugging Face Spaces link here:
 
 ```bash
-https://huggingface.co/spaces/YOUR_USERNAME/YOUR_SPACE_NAME
+https://huggingface.co/spaces/vinitha99/PLANT_DISEASE_DETECTION
