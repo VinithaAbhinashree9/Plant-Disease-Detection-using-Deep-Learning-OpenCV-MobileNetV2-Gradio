@@ -15,9 +15,10 @@ Built with:
 #  Live Demo
 
 Add your Hugging Face Spaces link here:
+https://huggingface.co/spaces/vinitha99/PLANT_DISEASE_DETECTION
+
 
 ```bash
-https://huggingface.co/spaces/vinitha99/PLANT_DISEASE_DETECTION
 
 #  Features
 
